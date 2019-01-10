@@ -1,3 +1,0 @@
-id,power,intelligence,agility,hp,physical_attack,magic_attack,armor,magic_resist,physical_critical,magic_critical,hp_regain,energy_regain,dodge,armor_penetration,magic_penetration,suck_blood,energy_down,treat_effect,hit_ratio,skill_point,ignore_silence
-战斗力,力量加成,智力加成,敏捷加成,生命加成,物理攻击加成,魔法强度加成,护甲加成,魔抗加成,物理暴击加成,魔法暴击加成,生命回复,能量回复,闪避,护甲穿透,忽视魔法抗性,吸血,能量消耗降低,治疗效果加成%,命中率,技能点增加,免疫沉默
-1,0.9,0.9,0.9,0.04,0.6,0.3,2,2,1.25,1.25,0.06,0.15,1,4,4,0.6,1.25,3,2,20,1.5
