@@ -20,6 +20,7 @@ data=urllib.request.urlopen(full_url).read()
 data=data.decode('UTF-8')
 print(data)
 
+111
 
 http://www.cnblogs.com/sshoub/p/4321640.html
 
